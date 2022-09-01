@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 866 .
+find . -tpye d exec chmod 755
