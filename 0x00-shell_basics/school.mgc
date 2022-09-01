@@ -1,1 +1,2 @@
-file --mmime-type -m school.mgc *
+#!/bin/bash
+0 SCHOOL
