@@ -1,2 +1,2 @@
 #!/bin/bash
-find / -iname "hello" -user guillaume -chown betty hello 
+find / -iname "hello" -user guillaume -exec chown betty hello {} 
