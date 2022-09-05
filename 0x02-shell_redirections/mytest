@@ -6,3 +6,4 @@ mysql:x:106:107:MySQL Server,,,:/var/lib/mysql/:/bin/false
 
 {tail -n1 mytest}
 {tail -n1 mytest}
+{tail -n1 mytest}
